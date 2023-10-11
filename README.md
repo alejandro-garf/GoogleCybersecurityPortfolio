@@ -1,4 +1,4 @@
-<h1>Hi, I'm Gael! <br/><a href="https://github.com/alejandro-garf/GoogleCybersecurityPortfolio/blob/main/README.md">Google Professional Cybersecurity Certificate Projects</a> 
+<h1>Hi! Check out my<br/><a href="https://github.com/alejandro-garf/GoogleCybersecurityPortfolio/blob/main/README.md">Google Professional Cybersecurity Certificate Projects</a> 
   
 <h2>👨‍💻Play It Safe: Manage Security Risks <br/><a href="https://github.com/alejandro-garf/GoogleCybersecurityPortfolio/blob/main/Play%20It%20Safe%3A%20Manage%20Security%20Risks/PlayItSafe.pdf">Certificate</a><h2>
 
