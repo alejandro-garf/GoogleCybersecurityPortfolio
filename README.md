@@ -19,7 +19,11 @@
 - <b>Apply OS Hardening Techniques</b>
   - [Activity Overview](https://github.com/alejandro-garf/GoogleCybersecurityPortfolio/blob/main/Connect%20and%20Protect%3A%20Networks%20and%20Network%20Security/ActivityOverview3.png)
   - [Scenario](https://github.com/alejandro-garf/GoogleCybersecurityPortfolio/blob/main/Connect%20and%20Protect%3A%20Networks%20and%20Network%20Security/Scenario3.png)
-  - [Incident Report & Analysis](https://github.com/alejandro-garf/GoogleCybersecurityPortfolio/blob/main/Connect%20and%20Protect%3A%20Networks%20and%20Network%20Security/Security%20incident%20report_%20OS%20Hardening%20Techniques.pdf)
+  - [Apply OS Hardening Techniques](https://github.com/alejandro-garf/GoogleCybersecurityPortfolio/blob/main/Connect%20and%20Protect%3A%20Networks%20and%20Network%20Security/Security%20incident%20report_%20OS%20Hardening%20Techniques.pdf)
+- <b>Analysis of Network Hardening</b>
+  - [Activity Overview](https://github.com/alejandro-garf/GoogleCybersecurityPortfolio/blob/main/Connect%20and%20Protect%3A%20Networks%20and%20Network%20Security/NHOverview.png)
+  - [Scenario](https://github.com/alejandro-garf/GoogleCybersecurityPortfolio/blob/main/Connect%20and%20Protect%3A%20Networks%20and%20Network%20Security/NHScenario.png)
+  - [Security Risk Assessment Report](https://github.com/alejandro-garf/GoogleCybersecurityPortfolio/blob/main/Connect%20and%20Protect%3A%20Networks%20and%20Network%20Security/NetworkHardening.pdf)
 <h2>👨‍💻 Linux & SQL Cybersecurity Projects:</h2>
 
 
