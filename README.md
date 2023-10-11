@@ -9,9 +9,9 @@
 <h2>👨‍💻 Connect and Protect: Networks and Network Security</h2>
 
 - <b>Analyze network layer communication</b>
-  - [Activity Overview](https://github.com/alejandro-garf/GoogleCybersecurityProjects/blob/main/Activity%20Overview.png)
-  - [Scenario](https://github.com/alejandro-garf/GoogleCybersecurityProjects/blob/main/Screenshot%202023-10-09%20at%203.25.14%20PM.png)
-  - [Incident Report & Analysis](https://github.com/alejandro-garf/GoogleCybersecurityProjects/blob/main/Cybersecurity%20incident%20report%20network%20traffic%20analysis.pdf)
+  - [Activity Overview](https://github.com/alejandro-garf/GoogleCybersecurityPortfolio/blob/main/Connect%20and%20Protect%3A%20Networks%20and%20Network%20Security/Activity%20Overview.png)
+  - [Scenario](https://github.com/alejandro-garf/GoogleCybersecurityPortfolio/blob/main/Connect%20and%20Protect%3A%20Networks%20and%20Network%20Security/Screenshot%202023-10-09%20at%203.25.14%20PM.png)
+  - [Incident Report & Analysis](https://github.com/alejandro-garf/GoogleCybersecurityPortfolio/blob/main/Connect%20and%20Protect%3A%20Networks%20and%20Network%20Security/Cybersecurity%20incident%20report%20network%20traffic%20analysis.pdf)
 - <b>Analyze Network Attacks</b>
   - [Activity Overview](https://github.com/alejandro-garf/GoogleCybersecurityProjects/blob/main/ActivityOverview2.png)
   - [Scenario](https://github.com/alejandro-garf/GoogleCybersecurityProjects/blob/main/Scenario2.png)
