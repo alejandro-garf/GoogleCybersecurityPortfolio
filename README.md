@@ -24,6 +24,10 @@
   - [Activity Overview](https://github.com/alejandro-garf/GoogleCybersecurityPortfolio/blob/main/Connect%20and%20Protect%3A%20Networks%20and%20Network%20Security/NHOverview.png)
   - [Scenario](https://github.com/alejandro-garf/GoogleCybersecurityPortfolio/blob/main/Connect%20and%20Protect%3A%20Networks%20and%20Network%20Security/NHScenario.png)
   - [Security Risk Assessment Report](https://github.com/alejandro-garf/GoogleCybersecurityPortfolio/blob/main/Connect%20and%20Protect%3A%20Networks%20and%20Network%20Security/NetworkHardening.pdf)
+- <b>Using the NIST Cybersecurity Framework to respond to a Security Incident</b>
+  - [Activity Overview](https://github.com/alejandro-garf/GoogleCybersecurityPortfolio/blob/main/Connect%20and%20Protect%3A%20Networks%20and%20Network%20Security/NISTOverview.png)
+  - [Scenario](https://github.com/alejandro-garf/GoogleCybersecurityPortfolio/blob/main/Connect%20and%20Protect%3A%20Networks%20and%20Network%20Security/NISTSceneario.png)
+  - [Incident Report Analysis](https://github.com/alejandro-garf/GoogleCybersecurityPortfolio/blob/main/Connect%20and%20Protect%3A%20Networks%20and%20Network%20Security/NIST.pdf)
 <h2>👨‍💻 Linux & SQL Cybersecurity Projects:</h2>
 
 
