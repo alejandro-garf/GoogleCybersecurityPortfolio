@@ -1,4 +1,4 @@
-<h1>Hi, I'm Gael! <br/><a href="https://github.com/alejandro-garf">Google Professional Cybersecurity Certificate Projects</a> | <a href="https://www.linkedin.com/in/gael-alejandro-fonseca/">Linkedin</a>
+<h1>Hi, I'm Gael! <br/><a href="https://github.com/alejandro-garf">Google Professional Cybersecurity Certificate Projects</a> | <a href="https://github.com/alejandro-garf/Certificates/blob/main/README.md">Certificates</a>
 
 <h2>👨‍💻 Play It Safe: Manage Security Risks</h2>
 
