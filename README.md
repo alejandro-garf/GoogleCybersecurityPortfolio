@@ -1,5 +1,5 @@
-<h1>Hi, I'm Gael! <br/><a href="https://github.com/alejandro-garf/GoogleCybersecurityPortfolio/blob/main/README.md">Google Professional Cybersecurity Certificate Projects</a> | <a href="https://www.linkedin.com/in/gael-alejandro-fonseca/">Linkedin</a>
-
+<h1>Hi, I'm Gael! <br/><a href="https://github.com/alejandro-garf/GoogleCybersecurityPortfolio/blob/main/README.md">Google Professional Cybersecurity Certificate Projects</a> 
+  
 <h2>👨‍💻Play It Safe: Manage Security Risks <br/><a href="https://github.com/alejandro-garf/GoogleCybersecurityPortfolio/blob/main/Play%20It%20Safe%3A%20Manage%20Security%20Risks/PlayItSafe.pdf">Certificate</a><h2>
 
 - <b>Botium Toys Security Audit</b>
