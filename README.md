@@ -1,10 +1,10 @@
-<h1>Hi, I'm Gael! <br/><a href="https://github.com/alejandro-garf">Google Professional Cybersecurity Certificate Projects</a> | <a href="https://www.linkedin.com/in/gael-alejandro-fonseca/">Linkedin</a>
+<h1>Hi, I'm Gael! <br/><a href="https://github.com/alejandro-garf/GoogleCybersecurityPortfolio/blob/main/README.md">Google Professional Cybersecurity Certificate Projects</a> | <a href="https://www.linkedin.com/in/gael-alejandro-fonseca/">Linkedin</a>
 
-<h2>👨‍💻 Cybersecurity Projects Courses 1-3:</h2>
+<h2>👨‍💻Play It Safe: Manage Security Risks <br/><a href="https://github.com/alejandro-garf/GoogleCybersecurityPortfolio/blob/main/Play%20It%20Safe%3A%20Manage%20Security%20Risks/PlayItSafe.pdf">Certificate</a><h2>
 
 - <b>Botium Toys Security Audit</b>
-  - [Scope, goals, and risk assessment report](https://github.com/alejandro-garf/GoogleCybersecurityProjects/blob/main/Botium%20Toys_%20Scope%2C%20goals%2C%20and%20risk%20assessment%20report.pdf)
-  - [Controls and Compliance Checklist](https://github.com/alejandro-garf/GoogleCybersecurityProjects/blob/main/Controls%20and%20compliance%20checklist.pdf)
+  - [Scope, goals, and risk assessment report](https://github.com/alejandro-garf/GoogleCybersecurityPortfolio/blob/main/Play%20It%20Safe%3A%20Manage%20Security%20Risks/Botium%20Toys_%20Scope%2C%20goals%2C%20and%20risk%20assessment%20report.pdf)
+  - [Controls and Compliance Checklist](https://github.com/alejandro-garf/GoogleCybersecurityPortfolio/blob/main/Play%20It%20Safe%3A%20Manage%20Security%20Risks/BotiumToysControlsandcompliance%20checklist.pdf)
 - <b>Analyze network layer communication</b>
   - [Activity Overview](https://github.com/alejandro-garf/GoogleCybersecurityProjects/blob/main/Activity%20Overview.png)
   - [Scenario](https://github.com/alejandro-garf/GoogleCybersecurityProjects/blob/main/Screenshot%202023-10-09%20at%203.25.14%20PM.png)
