@@ -30,5 +30,10 @@
   - [Incident Report Analysis](https://github.com/alejandro-garf/GoogleCybersecurityPortfolio/blob/main/Connect%20and%20Protect%3A%20Networks%20and%20Network%20Security/NIST.pdf)
 <h2>👨‍💻 Linux & SQL Cybersecurity Projects:</h2>
 
+- <b>Analyze network layer communication</b>
+  - [Activity Overview](https://github.com/alejandro-garf/GoogleCybersecurityPortfolio/blob/main/Connect%20and%20Protect%3A%20Networks%20and%20Network%20Security/ActivityOverview2.png)
+  - [Scenario](https://github.com/alejandro-garf/GoogleCybersecurityPortfolio/blob/main/Connect%20and%20Protect%3A%20Networks%20and%20Network%20Security/Scenario2.png)
+  - [Incident Report & Analysis](https://github.com/alejandro-garf/GoogleCybersecurityPortfolio/blob/main/Connect%20and%20Protect%3A%20Networks%20and%20Network%20Security/Cybersecurity%20incident%20report%20network%20traffic%20analysis.pdf)
+
 
 
