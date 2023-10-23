@@ -28,6 +28,7 @@
   - [Activity Overview](https://github.com/alejandro-garf/GoogleCybersecurityPortfolio/blob/main/Connect%20and%20Protect%3A%20Networks%20and%20Network%20Security/NISTOverview.png)
   - [Scenario](https://github.com/alejandro-garf/GoogleCybersecurityPortfolio/blob/main/Connect%20and%20Protect%3A%20Networks%20and%20Network%20Security/NISTSceneario.png)
   - [Incident Report Analysis](https://github.com/alejandro-garf/GoogleCybersecurityPortfolio/blob/main/Connect%20and%20Protect%3A%20Networks%20and%20Network%20Security/NIST.pdf)
+    
 <h2>👨‍💻 Linux & SQL Cybersecurity Projects:</h2>
 
 - <b>File Permissions in Linux</b>
@@ -38,6 +39,14 @@
   - [Activity Overview](https://github.com/alejandro-garf/GoogleCybersecurityPortfolio/blob/main/Tools%20of%20The%20Trade%3A%20Linux%20%26%20SQL/Activity%20Overview2.png)
   - [Scenario](https://github.com/alejandro-garf/GoogleCybersecurityPortfolio/blob/main/Tools%20of%20The%20Trade%3A%20Linux%20%26%20SQL/Scenario2.png)
   - [File Permissions Change Report](https://github.com/alejandro-garf/GoogleCybersecurityPortfolio/blob/main/Tools%20of%20The%20Trade%3A%20Linux%20%26%20SQL/Apply%20filters%20to%20SQL%20queries%20.pdf)
+ 
+<h2>👨‍💻 Assets, Threats, and Vulnerabilities</h2>
+
+  - [Activity Overview](https://github.com/alejandro-garf/GoogleCybersecurityPortfolio/blob/main/Assets%2C%20Threats%2C%20and%20Vulnerabilities/ActivityOverview1.png)
+  - [Scenario](https://github.com/alejandro-garf/GoogleCybersecurityPortfolio/blob/main/Assets%2C%20Threats%2C%20and%20Vulnerabilities/Scenario1.png)
+  - [Vulnerability Assessment Report](https://github.com/alejandro-garf/GoogleCybersecurityPortfolio/blob/main/Assets%2C%20Threats%2C%20and%20Vulnerabilities/Vulnerability%20assessment%20report%20exemplar.pdf)
+
+  
 
 
 
