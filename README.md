@@ -34,6 +34,10 @@
   - [Activity Overview](https://github.com/alejandro-garf/GoogleCybersecurityPortfolio/blob/main/Tools%20of%20The%20Trade%3A%20Linux%20%26%20SQL/ActivityOverview1.png)
   - [Scenario](https://github.com/alejandro-garf/GoogleCybersecurityPortfolio/blob/main/Tools%20of%20The%20Trade%3A%20Linux%20%26%20SQL/Scenario1.png)
   - [File Permissions Change Report](https://github.com/alejandro-garf/GoogleCybersecurityPortfolio/blob/main/Tools%20of%20The%20Trade%3A%20Linux%20%26%20SQL/File%20permissions%20in%20Linux.pdf)
+- <b>Applying Filters to SQL Queries</b>
+  - [Activity Overview](https://github.com/alejandro-garf/GoogleCybersecurityPortfolio/blob/main/Tools%20of%20The%20Trade%3A%20Linux%20%26%20SQL/Activity%20Overview2.png)
+  - [Scenario](https://github.com/alejandro-garf/GoogleCybersecurityPortfolio/blob/main/Tools%20of%20The%20Trade%3A%20Linux%20%26%20SQL/Scenario2.png)
+  - [File Permissions Change Report](https://github.com/alejandro-garf/GoogleCybersecurityPortfolio/blob/main/Tools%20of%20The%20Trade%3A%20Linux%20%26%20SQL/Apply%20filters%20to%20SQL%20queries%20.pdf)
 
 
 
