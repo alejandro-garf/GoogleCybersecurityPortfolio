@@ -46,6 +46,12 @@
   - [Scenario](https://github.com/alejandro-garf/GoogleCybersecurityPortfolio/blob/main/Assets%2C%20Threats%2C%20and%20Vulnerabilities/Scenario1.png)
   - [Vulnerability Assessment Report](https://github.com/alejandro-garf/GoogleCybersecurityPortfolio/blob/main/Assets%2C%20Threats%2C%20and%20Vulnerabilities/Vulnerability%20assessment%20report%20exemplar.pdf)
 
+<h2>👨‍💻 Sound the Alarm: Detection and Response</h2>
+
+  - [Incident Handler's Journal](https://github.com/alejandro-garf/GoogleCybersecurityPortfolio/blob/main/Sound%20the%20Alarm%3A%20Detection%20and%20Response/Completed%20incident%20handler's%20journal%20%20.pdf)
+
+
+
   
 
 
